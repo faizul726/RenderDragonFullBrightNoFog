@@ -10,4 +10,4 @@
 * Ported for v1.21.20+ using [mcbegamerxx954/material-updater](https://github.com/mcbegamerxx954/material-updater)
 
 ### 📥️ Downloads
-Check [releases](https://github.com/faizul726/RenderDragonFullBrightNoFog/releases/tag/latest).
+Check [releases](https://github.com/faizul726/RenderDragonFullBrightNoFog/releases/latest).
